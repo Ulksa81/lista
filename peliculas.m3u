@@ -1,11 +1,9 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2187904,QUALITY=hd,FRAME-RATE=24,RESOLUTION=1280x720
-#EXTINF:1 tvg-name-"Una Navidad Cubierta de Chocolate" tvg-logo="https://www.cinecalidad.tf/wp-content/uploads/2023/05/yJfhUKtGkdDnHt7a97ytnycOdyu-400x600.jpg" group-title="Peliculas",Una Navidad Cubierta de Chocolate
+#EXTINF:-1 tvg-name-"Una Navidad Cubierta de Chocolate" tvg-logo="https://www.cinecalidad.tf/wp-content/uploads/2023/05/yJfhUKtGkdDnHt7a97ytnycOdyu-400x600.jpg" group-title="Peliculas",Una Navidad Cubierta de Chocolate
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=f82492abd95e5743ab47db32f23453d0d2eb5e1b&st.mq=2&st.mvid=6159211104944&st.ip=201.202.14.247&st.dla=on&st.exp=1688340020707&st.hls=on&_prevCmd=movieLayer&tkn=9493
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2187904,QUALITY=hd,FRAME-RATE=24,RESOLUTION=1280x720
-#EXTINF:0 tvg-name-"Black Clover: La espada del rey mago" tvg-logo="https://www.cinecalidad.tf/wp-content/uploads/2023/06/jm2BckEhy1upr4iPpOZ6WTx1tWw-400x600.jpg" group-title="Peliculas",Black Clover: La espada del rey mago
+#EXTINF:-1 tvg-name-"Black Clover: La espada del rey mago" tvg-logo="https://www.cinecalidad.tf/wp-content/uploads/2023/06/jm2BckEhy1upr4iPpOZ6WTx1tWw-400x600.jpg" group-title="Peliculas",Black Clover: La espada del rey mago
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=e3ccb44e04fbd4828383d78d451421661fa05801&st.mq=2&st.mvid=6327089236656&st.ip=201.202.14.247&st.dla=on&st.exp=1688341193439&st.hls=on&_prevCmd=movieLayer&tkn=5499
 
@@ -17,6 +15,6 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=646d86b8c67c2a
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=135325062c55d119e9e5e4779843f6e9be24d194&st.mq=2&st.mvid=6327097428656&st.ip=201.202.14.247&st.dla=on&st.exp=1688344404023&st.hls=on&_prevCmd=movieLayer&tkn=9629
 
-#EXTINF:-1 tvg-name-"Mashle: Magic and Muscles" tvg-logo="https://www.imdb.com/title/tt21209804/mediaviewer/rm2185965057/?ref_=tt_ov_i" group-title="",Mashle: Magic and Muscles
+#EXTINF:-1 tvg-name-"Mashle: Magic and Muscles" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDE0ZTRhMTQtMTIzNC00NjY4LTllMmEtYjY4Y2ZlZmZlODU0XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UY720_.jpg" group-title="",Mashle: Magic and Muscles
 
 https://vd379.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1688271355244&srcIp=84.17.35.74&srcAg=SAFARI_MAC&ms=185.226.52.74&type=4&sig=0G9KO_VpR4o&ct=8&urls=45.136.20.75&clientType=0&id=3895616080543
