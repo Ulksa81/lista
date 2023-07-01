@@ -12,4 +12,8 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=e3ccb44e04fbd4
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=646d86b8c67c2a525dae4e917bd13e08261dee8f&st.mq=2&st.mvid=6331352418992&st.ip=104.28.92.54&st.dla=on&st.exp=1688343792544&st.hls=on&_prevCmd=movieLayer&tkn=6821
 
+#EXTINF:-1 tvg-name-"El pueblo" tvg-logo="https://www.cinecalidad.tf/wp-content/uploads/2023/06/rCN60OSsGz8FQRda0ZwQJtwPcrU-400x600.jpg" group-title="Peliculas",El pueblo
+
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=135325062c55d119e9e5e4779843f6e9be24d194&st.mq=2&st.mvid=6327097428656&st.ip=201.202.14.247&st.dla=on&st.exp=1688344404023&st.hls=on&_prevCmd=movieLayer&tkn=9629
+
 #EXTINF:-1 tvg-name-"" tvg-logo="LOGO IMAGE" group-title="",
