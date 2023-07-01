@@ -31,4 +31,8 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=eeb729ae84116b
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d4897340d2c173f8fe161db6a13aa7633bc2cb74&st.mq=2&st.mvid=2598699666152&st.ip=201.202.14.247&st.dla=on&st.exp=1688425240628&st.hls=on&_prevCmd=movieLayer&tkn=3484
 
+#EXTINF:-1 tvg-name-"Mis dobles, mi mujer y yo" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI4Zjc4MDMtZGJjMS00ZjhjLWJkYTItNjZhNGFjOTY4Y2E4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX800_.jpg" group-title="Peliculas",Mis dobles, mi mujer y yo
+
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=231d3f14c8b730fceed61877fe2199e7c9145863&st.mq=2&st.mvid=2597163633384&st.ip=201.202.14.247&st.dla=on&st.exp=1688425878133&st.hls=on&_prevCmd=movieLayer&tkn=2906
+
 #EXTINF:-1 tvg-name-"" tvg-logo="LOGO IMAGE" group-title="Peliculas",
