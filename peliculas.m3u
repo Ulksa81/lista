@@ -27,4 +27,8 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d0a9a3ce33ed7b
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=eeb729ae84116bd9f0517c6beb23479a382bad1d&st.mq=2&st.mvid=3024014084840&st.ip=201.202.14.247&st.dla=on&st.exp=1688424793458&st.hls=on&_prevCmd=movieLayer&tkn=5695
 
+#EXTINF:-1 tvg-name-"Yakuza: El imperio del sol naciente" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZmMzU2YzYtODQ4Ni00ZmUyLWEyMzgtN2Q0NjU2OGVmYTdmXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_FMjpg_UX1200_.jpg" group-title="Peliculas",Yakuza: El imperio del sol naciente
+
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d4897340d2c173f8fe161db6a13aa7633bc2cb74&st.mq=2&st.mvid=2598699666152&st.ip=201.202.14.247&st.dla=on&st.exp=1688425240628&st.hls=on&_prevCmd=movieLayer&tkn=3484
+
 #EXTINF:-1 tvg-name-"" tvg-logo="LOGO IMAGE" group-title="Peliculas",
