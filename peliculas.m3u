@@ -15,12 +15,16 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=646d86b8c67c2a
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=135325062c55d119e9e5e4779843f6e9be24d194&st.mq=2&st.mvid=6327097428656&st.ip=201.202.14.247&st.dla=on&st.exp=1688344404023&st.hls=on&_prevCmd=movieLayer&tkn=9629
 
-#EXTINF:-1 tvg-name-"You Hurt My Feelings" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNiYzEzNDUtZjA3MS00NGVlLTg1MjMtZGFjN2E0YmQxYWIzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY3001_.jpg" group-title="",You Hurt My Feelings
+#EXTINF:-1 tvg-name-"You Hurt My Feelings" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNiYzEzNDUtZjA3MS00NGVlLTg1MjMtZGFjN2E0YmQxYWIzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UY3001_.jpg" group-title="Peliculas",You Hurt My Feelings
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=638efc5b54b02eab86b3039c7cd281d3d3e456e3&st.mq=2&st.mvid=6602562210480&st.ip=201.202.14.247&st.dla=on&st.exp=1688360855166&st.hls=on&_prevCmd=movieLayer&tkn=8729
 
-#EXTINF:-1 tvg-name-"Eurotrip" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRmYjY1NTUtNjNlMC00MDFjLTk0MTYtZWVlMTFhMjllYjUzXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX881_.jpg" group-title="",Eurotrip
+#EXTINF:-1 tvg-name-"Eurotrip" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRmYjY1NTUtNjNlMC00MDFjLTk0MTYtZWVlMTFhMjllYjUzXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX881_.jpg" group-title="Peliculas",Eurotrip
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d0a9a3ce33ed7b2ed6e53522779af2f34e4b8273&st.mq=2&st.mvid=3807331355368&st.ip=201.202.14.247&st.dla=on&st.exp=1688424187568&st.hls=on&_prevCmd=movieLayer&tkn=995
 
-#EXTINF:-1 tvg-name-"" tvg-logo="LOGO IMAGE" group-title="",
+#EXTINF:-1 tvg-name-"Cuatro bodas y un funeral" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk2NGY1MTUtMTFjMi00NThlLTliNmQtZWQ0NjMxYzlkNTIxXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX501_.jpg" group-title="",Cuatro bodas y un funeral
+
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=eeb729ae84116bd9f0517c6beb23479a382bad1d&st.mq=2&st.mvid=3024014084840&st.ip=201.202.14.247&st.dla=on&st.exp=1688424793458&st.hls=on&_prevCmd=movieLayer&tkn=5695
+
+#EXTINF:-1 tvg-name-"" tvg-logo="LOGO IMAGE" group-title="Peliculas",
