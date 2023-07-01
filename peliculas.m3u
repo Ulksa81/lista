@@ -8,6 +8,8 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=f82492abd95e57
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=e3ccb44e04fbd4828383d78d451421661fa05801&st.mq=2&st.mvid=6327089236656&st.ip=201.202.14.247&st.dla=on&st.exp=1688341193439&st.hls=on&_prevCmd=movieLayer&tkn=5499
 
-#EXTINF:-1 tvg-name-"" tvg-logo="LOGO IMAGE" group-title="",
+#EXTINF:-1 tvg-name-"Un año inolvidable" tvg-logo="https://www.cinecalidad.tf/wp-content/uploads/2023/06/rDaQeyPdIwhw7fqlIgMye50emMM-400x600.jpg" group-title="Peliculas",Un año inolvidable
+
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=646d86b8c67c2a525dae4e917bd13e08261dee8f&st.mq=2&st.mvid=6331352418992&st.ip=104.28.92.54&st.dla=on&st.exp=1688343792544&st.hls=on&_prevCmd=movieLayer&tkn=6821
 
 #EXTINF:-1 tvg-name-"" tvg-logo="LOGO IMAGE" group-title="",
