@@ -43,4 +43,9 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=84ca689e3927d8
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=13031165d863a8bb18ce66f07dd1e9ff2984aa91&st.mq=2&st.mvid=2175224187624&st.ip=104.28.92.54&st.dla=on&st.exp=1688426754133&st.hls=on&_prevCmd=movieLayer&tkn=5684
 
+#EXTINF:-1 tvg-name-"Poli de guardería" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyMTIyOTc0N15BMl5BanBnXkFtZTgwODY1NTk4NjE@._V1_FMjpg_UX1003_.jpg" group-title="Peliculas",Poli de guardería
+
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=5c06893da4d90327f13db1b308c730a253d5ea2c&st.mq=2&st.mvid=2170207537896&st.ip=201.202.14.247&st.dla=on&st.exp=1688427583378&st.hls=on&_prevCmd=movieLayer&tkn=2778
+
 #EXTINF:-1 tvg-name-"" tvg-logo="LOGO IMAGE" group-title="Peliculas",
+
