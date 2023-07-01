@@ -39,7 +39,7 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=231d3f14c8b730
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=84ca689e3927d8135f359013cfb7aef6de220c37&st.mq=2&st.mvid=2279820692200&st.ip=201.202.14.247&st.dla=on&st.exp=1688426395542&st.hls=on&_prevCmd=movieLayer&tkn=1458
 
-#EXTINF:-1 tvg-name-"Darkman" tvg-logo="LOGO IMAGE" group-title="Peliculas",Darkman
+#EXTINF:-1 tvg-name-"Darkman" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgzMzQxMDQtOTUxMC00ZDM4LTgzYjItODE5OGVkYTVkMDFhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UY562_CR7,0,380,562_.jpg" group-title="Peliculas",Darkman
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=13031165d863a8bb18ce66f07dd1e9ff2984aa91&st.mq=2&st.mvid=2175224187624&st.ip=104.28.92.54&st.dla=on&st.exp=1688426754133&st.hls=on&_prevCmd=movieLayer&tkn=5684
 
