@@ -14,3 +14,7 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=646d86b8c67c2a
 #EXTINF:-1 tvg-name-"El pueblo" tvg-logo="https://www.cinecalidad.tf/wp-content/uploads/2023/06/rCN60OSsGz8FQRda0ZwQJtwPcrU-400x600.jpg" group-title="Peliculas",El pueblo
 
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=135325062c55d119e9e5e4779843f6e9be24d194&st.mq=2&st.mvid=6327097428656&st.ip=201.202.14.247&st.dla=on&st.exp=1688344404023&st.hls=on&_prevCmd=movieLayer&tkn=9629
+
+#EXTINF:-1 tvg-name-"Mashle: Magic and Muscles" tvg-logo="https://www.imdb.com/title/tt21209804/mediaviewer/rm2185965057/?ref_=tt_ov_i" group-title="",Mashle: Magic and Muscles
+
+https://vd379.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1688271355244&srcIp=84.17.35.74&srcAg=SAFARI_MAC&ms=185.226.52.74&type=4&sig=0G9KO_VpR4o&ct=8&urls=45.136.20.75&clientType=0&id=3895616080543
